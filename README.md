@@ -1,0 +1,2 @@
+# Fixed-Assets-Management-System
+This projects is aimed at providing an efficient and user friendly tool to the management of the organisation for asset management of the organisation. It was observed by the management that in the absence of such a centralised system, many software and hardware assets lay wasted while newer ones with similar configurations were unnecessarily purchased. This not only added to the projects cost but also increased the turnaround time of the projects.
